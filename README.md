@@ -12,13 +12,13 @@ Special access to testing data was granted by Cornell University, enhancing the 
 Target Species
 This project specifically focuses on the following 7 bird species:
 
-Germain's Peacock Phesant
-Giant ibis
-Great hornbill
-Orange necked partridge
-Oriental pied hornbill
-White shouldered ibis
-White rumped shama
+Germain's Peacock Phesant,
+Giant ibis,
+Great hornbill,
+Orange necked partridge,
+Oriental pied hornbill,
+White shouldered ibis,
+White rumped shama.
 
 Training Data: 
 
