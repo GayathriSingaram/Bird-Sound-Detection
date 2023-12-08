@@ -30,13 +30,11 @@ Conversion to single-channel audio.
 Standardization of the sample rate to 44,000 Hz.
 Format conversion to .wav for consistency and quality preservation.
 
-Training data is organised in 4 separate folders 
-Audio data:
-Bird calls Audio
-Bird Songs Audio
-Image data:
-Image data calls
-Image data songs
+Training data is organised in 4 separate folders:
+Bird calls Audio,
+Bird Songs Audio,
+Image data calls,
+Image data songs.
 
 Testing Data:
 
